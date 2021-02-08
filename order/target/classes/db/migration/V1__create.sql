@@ -1,0 +1,1 @@
+CREATE TABLE "order" ( id serial, name VARCHAR(50), PRIMARY KEY (id) );
